@@ -12,4 +12,4 @@
 `DB_URL=jdbc:sqlite:reservation.db mvn compile exec:java`
 
 ## Demo trains
-11111, 22222, 33333, 44444, 55555, 66666 (name auto-fills when typed).
+12951, 12627, 12123, 11007, 12301, 12009, 12345 (name auto-fills when typed).
